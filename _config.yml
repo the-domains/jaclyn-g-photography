@@ -1,7 +1,7 @@
 name: Jaclyn G Photography
 favicon: null
-layout_spectrum: 0.0002301810309290886
-typography_spectrum: 0.41682599345222116
+layout_spectrum: 0.2798
+typography_spectrum: 0.50606
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6312415353022516
-  lightness: 0.7801694967783988
-  saturation: 0.16075752745382488
-  rhythmicContrast: 0.6268211691640317
+    - '#c7ddf4'
+    - '#1a1718'
+    - '#6c6c6c'
+    - '#ff8b7e'
+    - '#d06a68'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
